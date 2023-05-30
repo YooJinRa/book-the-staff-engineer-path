@@ -8,4 +8,4 @@
 
 ## 타임라인
 
-- 2023.05.30 : [이 책을 선택한 이유](https://github.com/YooJinRa/book-the-staff-engineer-path/230530.md)
+- 2023.05.30 : [이 책을 선택한 이유](https://github.com/YooJinRa/book-the-staff-engineer-path/blob/main/230530.md)
